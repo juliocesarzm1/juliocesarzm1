@@ -1,1 +1,1 @@
-<img src="[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=8000&pause=500&color=F7DA4C&background=6E30A500&center=true&width=435&lines=Me+chamo+J%C3%BAlio+C%C3%A9sar;Estou+cursando+T%C3%A9cnico+em+Desenvolvimento+de+Sistemas+no+SENAI)](https://git.io/typing-svg)">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=8000&pause=500&color=F7DA4C&background=6E30A500&center=true&width=435&lines=Me+chamo+J%C3%BAlio+C%C3%A9sar)](https://git.io/typing-svg)
