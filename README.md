@@ -2,5 +2,4 @@
 
 <p>Tenho 16 anos e no momento estou cursando Técnico em Desenvolvimento de Sistemas pelo SENAI.<p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cassandra/cassandra-original.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original-wordmark.svg" />
           
